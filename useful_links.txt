@@ -1,0 +1,5 @@
+https://fastlane.tools/
+https://medium.com/@cherrmann.com/continuous-integration-and-delivery-for-ios-with-jenkins-and-fastlane-part-1-3b17f1901a73
+https://www.zuehlke.com/blog/en/continuous-integration-for-mobile-apps-with-fastlane-and-jenkins
+https://cactussoft.biz/blog/2018/02/02/continuous-integration-and-delivery-process/
+https://nickcharlton.net/posts/installing-jenkins-osx-yosemite.html
